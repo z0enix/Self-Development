@@ -6,3 +6,24 @@ Self-development is a continuous inner journey in which an individual embarks to
 ---
 
 ## Mental Model
+> ![Mentalmodels6-1024x512](https://github.com/user-attachments/assets/10c66898-717f-4267-9b68-576d15145e3b)
+> A mental model is an internal representation of external reality: that is, a way of representing reality within the mind. Such models are hypothesized to play a major role in cognition, reasoning and decision-making. The term for this concept was coined in 1943 by Kenneth Craik, who suggested that the mind constructs "small-scale models" of reality that it uses to anticipate events. Mental models can help shape behaviour, including approaches to solving problems and performing tasks | In psychology, the term mental models is sometimes used to refer to mental representations or mental simulation generally. The concepts of schema and conceptual models are cognitively adjacent. Elsewhere, it is used to refer to the "mental model" theory of reasoning developed by Philip Johnson-Laird and Ruth M. J. Byrne.
+
+Resource: [wikipedia](https://en.wikipedia.org/wiki/Mental_model)
+
+### How It Benefits Me as a Cybersecurity Researcher ?
+Mental models help me think like an attacker and a defender at the same time. They allow me to:
+<img src="https://github.com/user-attachments/assets/11694547-5526-4c5f-ae8d-961be41cf9e9" width="25%" align='right' >
+- Map Systems Quickly
+- Predict Behavior
+- Solve Security Problems Strategically
+- Learn and Adapt Fast
+- Reduce Mistakes
+---
+
+> By continuously refining my mental models, I stay ahead of threats, make smarter security decisions, and enhance my effectiveness as a cybersecurity researcher
+
+
+
+
+
