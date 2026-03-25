@@ -23,7 +23,12 @@ Mental models help me think like an attacker and a defender at the same time. Th
 
 > By continuously refining my mental models, I stay ahead of threats, make smarter security decisions, and enhance my effectiveness as a cybersecurity researcher
 
+---
 
+## Spaced Repetition
+> <img width="2018" height="1283" alt="SRgraph" src="https://github.com/user-attachments/assets/4de44437-2231-43fd-b5e3-cd7493bac178" />
+> Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect. The use of spaced repetition has been proven to increase the rate of learning | Although the principle is useful in many contexts, spaced repetition is commonly applied in contexts in which a learner must acquire many items and retain them indefinitely in memory. It is, therefore, well suited for the problem of vocabulary acquisition in the course of second-language learning. A number of spaced repetition software programs have been developed to aid the learning process. It is also possible to perform spaced repetition with physical flashcards using the Leitner system. The testing effect and spaced repetition can be combined to improve long-term memory. Therefore, memorization can be easier to do.
 
+Resource: [wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 
